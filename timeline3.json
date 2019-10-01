@@ -1,4 +1,5 @@
 {
+    
     "title": {
         "media": {
           "url": "//www.flickr.com/photos/tm_10001/2310475988/",
@@ -27,6 +28,21 @@
           "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
         }
       },
+        {
+            "start_date":{
+                "year": 1910
+            },
+            "text": {
+                "headline": "<b>Histoire du jazz</b>",
+                "text": "<p>C'est à la Nouvelle Orléans que le jazz voit le jour, un mélange de blues, ragtime et musique de fanfares. Le premier style de jazz s'appelle donc \"New Orleans\".</p>\n\n<p>Si le jazz est inventé, joué par la communauté noire, le premier enregistrement CD \"Livery stable blues\" est réalisé par un groupe de musicien blanc en 1917, l'Original Dixieland Jass band.</p>\n\n<p>À cause de la ségrégation, et de la 1ère Guerre Mondiale qui entraîne les fermetures de clubs à la Nouvelles Orléans, de nombreux musiciens noirs s'exportent à Chicago et New-York qui deviennent les nouvelles capitales du jazz. Dans les morceaux, les solos prennent de plus en plus d'importance, notamment grâce à Louis Armstrong qui place le soliste au 1er plan.</p>",
+            },
+         "media": {
+                    "credit": "test",
+                    "caption": "test",
+                    "thumbnail": "http://www.howtorecordpodcasts.com/wp-content/uploads/2012/10/YouTube-Background-Pop-2.jpg",
+                   "url": "https://youtu.be/fSrO91XO1Ck"
+        }
+    },
       {
         "media": {
           "url": "https://youtu.be/fSrO91XO1Ck",
